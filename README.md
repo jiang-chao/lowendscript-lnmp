@@ -1,1 +1,0 @@
-# lowendscript-lnmp
